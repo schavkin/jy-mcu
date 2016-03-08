@@ -1,0 +1,11 @@
+#####
+
+jymega32.name=JY-MEGA32
+jymega32.build.board=AVR_JYMEGA32
+jymega32.build.mcu=atmega32
+jymega32.build.f_cpu=16000000L
+jymega32.build.core=arduino:arduino
+jymega32.build.variant=atmega32
+jymega32.upload.tool=arduino:avrdude
+jymega32.upload.using=arduino:usbasp
+jymega32.upload.maximum_size=28672
